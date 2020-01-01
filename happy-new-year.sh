@@ -2,7 +2,7 @@
 
 # Config
 name='subins2000'
-correction=0
+correction=-1
 
 trap "tput reset; tput cnorm; exit" 2
 clear
